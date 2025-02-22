@@ -1,4 +1,5 @@
 # Kalkulator Sederhana
+Klik disini untuk [Preview](https://faajharr.github.io/kalkulator-ukk-java/)
 
 ## Deskripsi
 Aplikasi kalkulator berbasis web sederhana yang dibuat menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
